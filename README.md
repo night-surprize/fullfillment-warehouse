@@ -85,7 +85,7 @@ psql -h localhost -U warehouse_user -d fulfillment_warehouse -f sql/10_explain.s
 в `python/` - дополнительные скрипты.
 GitHub Actions настроен на запуск интеграционных тестов с PostgreSQL 16 и 18
 после отправки изменений или создания pull request.
-Подробные документы в `docs/` пока написаны на английском.
+Подробные инструкции и модели в `docs/` написаны на русском.
 
 ## Ограничения
 
